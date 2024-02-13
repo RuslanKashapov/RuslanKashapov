@@ -5,7 +5,7 @@
   <a href="https://t.me/kashanaft">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/kashanaft?igsh=ajF6bjVoMXZ6amV5">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
   <a href="https://vk.com/kashanaft">
