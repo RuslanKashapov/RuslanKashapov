@@ -14,3 +14,14 @@
   </a>
 </div>
 
+### Skills
+- C++, Qt
+- Python
+- Some AI, ML, CV
+
+🏆 Competition background
+
+🥈 Digital Breakpoint 2023 Stavropol
+🥉 All-Russian Digital Breakpoint 2023
+🥉 HackWagon 2022
+🥉 Rosneft Hack 2022
