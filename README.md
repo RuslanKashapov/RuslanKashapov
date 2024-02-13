@@ -14,7 +14,7 @@
   </a>
 </div>
 
-###🏆 Competition background
+### 🏆 Competition background
 
 -🥈 Digital Breakpoint 2023 Stavropol
 -🥉 All-Russian Digital Breakpoint 2023 Nizhny Novgorod
