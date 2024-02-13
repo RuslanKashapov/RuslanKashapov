@@ -14,6 +14,11 @@
   </a>
 </div>
 
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+title="c++" width="40" height="40"/>&nbsp;
+
+
 ### 🏆 Competition background
 - 🥈 Digital Breakpoint 2023 Stavropol
 - 🥉 Digital Breakpoint 2023 Nizhny Novgorod
