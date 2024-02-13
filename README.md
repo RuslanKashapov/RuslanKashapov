@@ -1,7 +1,5 @@
 <div id="header" align="center">
-<hi>
-  Ruslan Kashapov
-</hi>
+<h1>Ruslan Kashapov</h1>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/kashanaft">
