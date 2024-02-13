@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>Ruslan Kashapov</h1>
-<h3>C++ Developer</h3>
+<h3>C++ Developer, Ufa, Russia</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/kashanaft">
@@ -15,3 +15,4 @@
 </div>
 
 ### About me
+- 
