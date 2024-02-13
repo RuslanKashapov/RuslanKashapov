@@ -32,10 +32,11 @@ title="cmake" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
 title="ubuntu" width="40" height="40"/>&nbsp;
 
-
-
 ### 🏆 Competition background
 - 🥈 Digital Breakpoint 2023 Stavropol
 - 🥉 Digital Breakpoint 2023 Nizhny Novgorod
 - 🥉 HackWagon 2022
 - 🥉 Rosneft Hack 2022
+
+### 💻 Work
+- LinkSol September 2023 - now
