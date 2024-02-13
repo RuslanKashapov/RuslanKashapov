@@ -15,8 +15,7 @@
 </div>
 
 ### 🏆 Competition background
-
--🥈 Digital Breakpoint 2023 Stavropol
--🥉 All-Russian Digital Breakpoint 2023 Nizhny Novgorod
--🥉 HackWagon 2022
--🥉 Rosneft Hack 2022
+- 🥈 Digital Breakpoint 2023 Stavropol
+- 🥉 All-Russian Digital Breakpoint 2023 Nizhny Novgorod
+- 🥉 HackWagon 2022
+- 🥉 Rosneft Hack 2022
