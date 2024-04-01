@@ -33,6 +33,7 @@ title="cmake" width="40" height="40"/>&nbsp;
 title="ubuntu" width="40" height="40"/>&nbsp;
 
 ### 🏆 Competition background
+- 🥇 Ufa Hack 2024
 - 🥈 Digital Breakout 2023 Stavropol
 - 🥉 Digital Breakout 2023 Nizhny Novgorod
 - 🥉 HackWagon 2022
